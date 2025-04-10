@@ -22,7 +22,7 @@ CoulombDampedVibration is a web-based simulation tool for analyzing mechanical v
 
 ## Demo
 
-![Demo](demo.gif)
+![Demo](Demo.gif)
 
 ## Visit the Webpage
 
