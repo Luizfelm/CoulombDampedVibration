@@ -166,7 +166,7 @@ function App() {
               onClear={handleClear}
               step="0.1"
               placeholder="kg"
-              image="/icons/weight.png" // Adicione a imagem correspondente
+              image="/weight.png" // Adicione a imagem correspondente
             />
             <InputPortrait
               label="Constante da Mola"
@@ -175,7 +175,7 @@ function App() {
               onChange={handleChange}
               onClear={handleClear}
               step="0.1"
-              image="/icons/torsion.png" // Adicione a imagem correspondente
+              image="/torsion.png" // Adicione a imagem correspondente
             />
             <InputPortrait
               label="Força de Coulomb"
@@ -184,7 +184,7 @@ function App() {
               onChange={handleChange}
               onClear={handleClear}
               step="0.1"
-              image="/icons/skin.png" // Adicione a imagem correspondente
+              image="/skin.png" // Adicione a imagem correspondente
             />
             <InputPortrait
               label="Deslocamento Inicial"
@@ -193,7 +193,7 @@ function App() {
               onChange={handleChange}
               onClear={handleClear}
               step="0.1"
-              image="/icons/measure.png" // Adicione a imagem correspondente
+              image="/measure.png" // Adicione a imagem correspondente
             />
             <InputPortrait
               label="Velocidade Inicial"
@@ -202,7 +202,7 @@ function App() {
               onChange={handleChange}
               onClear={handleClear}
               step="0.1"
-              image="/icons/dashboard.png" // Adicione a imagem correspondente
+              image="/dashboard.png" // Adicione a imagem correspondente
             />
             <InputPortrait
               label="Tempo Total"
@@ -211,7 +211,7 @@ function App() {
               onChange={handleChange}
               onClear={handleClear}
               step="0.1"
-              image="/icons/time.png"
+              image="/time.png"
               unit="s" // Adicione a unidade
             />
           </div>
