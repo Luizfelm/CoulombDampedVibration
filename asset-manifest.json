@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CoulombDampedVibration/static/css/main.0823dbf1.css",
+    "main.js": "/CoulombDampedVibration/static/js/main.7bc74a35.js",
+    "static/js/453.76b2a0cd.chunk.js": "/CoulombDampedVibration/static/js/453.76b2a0cd.chunk.js",
+    "index.html": "/CoulombDampedVibration/index.html",
+    "main.0823dbf1.css.map": "/CoulombDampedVibration/static/css/main.0823dbf1.css.map",
+    "main.7bc74a35.js.map": "/CoulombDampedVibration/static/js/main.7bc74a35.js.map",
+    "453.76b2a0cd.chunk.js.map": "/CoulombDampedVibration/static/js/453.76b2a0cd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0823dbf1.css",
+    "static/js/main.7bc74a35.js"
+  ]
+}
