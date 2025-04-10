@@ -3,6 +3,13 @@ import Plot from 'react-plotly.js';
 import { motion } from 'framer-motion';
 import InputPortrait from './InputPortrait'; // Nosso componente customizado
 import './index.css';
+import weightIcon from './icons/weight.png';
+import torsionIcon from './icons/torsion.png';
+import skinIcon from './icons/skin.png';
+import measureIcon from './icons/measure.png';
+import dashboardIcon from './icons/dashboard.png';
+import timeIcon from './icons/time.png';
+
 
 // Função de simulação utilizando Runge-Kutta de 4ª ordem
 function rungeKuttaSimulation(params) {
@@ -166,7 +173,8 @@ function App() {
               onClear={handleClear}
               step="0.1"
               placeholder="kg"
-              image="/weight.png" // Adicione a imagem correspondente
+              image= {weightIcon} // Adicione a imagem correspondente
+              unit="kg" // Adicione a unidade
             />
             <InputPortrait
               label="Constante da Mola"
@@ -175,7 +183,8 @@ function App() {
               onChange={handleChange}
               onClear={handleClear}
               step="0.1"
-              image="/torsion.png" // Adicione a imagem correspondente
+              image={torsionIcon} // Adicione a imagem correspondente
+              unit={"N/m"} // Adicione a unidade
             />
             <InputPortrait
               label="Força de Coulomb"
@@ -184,7 +193,8 @@ function App() {
               onChange={handleChange}
               onClear={handleClear}
               step="0.1"
-              image="/skin.png" // Adicione a imagem correspondente
+              image={skinIcon} // Adicione a imagem correspondente
+              unit={"N"} // Adicione a unidade
             />
             <InputPortrait
               label="Deslocamento Inicial"
@@ -193,7 +203,8 @@ function App() {
               onChange={handleChange}
               onClear={handleClear}
               step="0.1"
-              image="/measure.png" // Adicione a imagem correspondente
+              image={measureIcon} // Adicione a imagem correspondente
+              unit={"m"} // Adicione a unidade
             />
             <InputPortrait
               label="Velocidade Inicial"
@@ -202,7 +213,8 @@ function App() {
               onChange={handleChange}
               onClear={handleClear}
               step="0.1"
-              image="/dashboard.png" // Adicione a imagem correspondente
+              image={dashboardIcon} // Adicione a imagem correspondente
+              unit={"m/s"} // Adicione a unidade
             />
             <InputPortrait
               label="Tempo Total"
@@ -211,7 +223,7 @@ function App() {
               onChange={handleChange}
               onClear={handleClear}
               step="0.1"
-              image="/time.png"
+              image={timeIcon}
               unit="s" // Adicione a unidade
             />
           </div>
