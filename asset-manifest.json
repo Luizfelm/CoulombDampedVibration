@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/CoulombDampedVibration/static/css/main.0823dbf1.css",
-    "main.js": "/CoulombDampedVibration/static/js/main.78d69086.js",
+    "main.css": "/CoulombDampedVibration/static/css/main.a68e7ee4.css",
+    "main.js": "/CoulombDampedVibration/static/js/main.a1887da3.js",
     "static/js/453.76b2a0cd.chunk.js": "/CoulombDampedVibration/static/js/453.76b2a0cd.chunk.js",
     "static/media/torsion.png": "/CoulombDampedVibration/static/media/torsion.edb80d7e949204e58e94.png",
     "static/media/time.png": "/CoulombDampedVibration/static/media/time.bc6e69c909cdbe1ca153.png",
     "static/media/dashboard.png": "/CoulombDampedVibration/static/media/dashboard.67b3a0dcd4057588d59e.png",
     "index.html": "/CoulombDampedVibration/index.html",
-    "main.0823dbf1.css.map": "/CoulombDampedVibration/static/css/main.0823dbf1.css.map",
-    "main.78d69086.js.map": "/CoulombDampedVibration/static/js/main.78d69086.js.map",
+    "main.a68e7ee4.css.map": "/CoulombDampedVibration/static/css/main.a68e7ee4.css.map",
+    "main.a1887da3.js.map": "/CoulombDampedVibration/static/js/main.a1887da3.js.map",
     "453.76b2a0cd.chunk.js.map": "/CoulombDampedVibration/static/js/453.76b2a0cd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0823dbf1.css",
-    "static/js/main.78d69086.js"
+    "static/css/main.a68e7ee4.css",
+    "static/js/main.a1887da3.js"
   ]
 }
