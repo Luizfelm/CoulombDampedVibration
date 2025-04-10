@@ -26,7 +26,7 @@ CoulombDampedVibration is a web-based simulation tool for analyzing mechanical v
 
 ## Visit the Webpage
 
-You can try the live version of the application [here](https://your-deployment-url.com).
+You can try the live version of the application [here](https://luizfelm.github.io/CoulombDampedVibration/).
 
 ## Installation
 
