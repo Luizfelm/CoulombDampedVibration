@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/CoulombDampedVibration/static/css/main.0823dbf1.css",
-    "main.js": "/CoulombDampedVibration/static/js/main.7bc74a35.js",
-    "static/js/453.76b2a0cd.chunk.js": "/CoulombDampedVibration/static/js/453.76b2a0cd.chunk.js",
-    "index.html": "/CoulombDampedVibration/index.html",
-    "main.0823dbf1.css.map": "/CoulombDampedVibration/static/css/main.0823dbf1.css.map",
-    "main.7bc74a35.js.map": "/CoulombDampedVibration/static/js/main.7bc74a35.js.map",
-    "453.76b2a0cd.chunk.js.map": "/CoulombDampedVibration/static/js/453.76b2a0cd.chunk.js.map"
+    "main.css": "/Luizfelm/CoulombDampedVibration/static/css/main.0823dbf1.css",
+    "main.js": "/Luizfelm/CoulombDampedVibration/static/js/main.692f62ea.js",
+    "static/js/453.76b2a0cd.chunk.js": "/Luizfelm/CoulombDampedVibration/static/js/453.76b2a0cd.chunk.js",
+    "index.html": "/Luizfelm/CoulombDampedVibration/index.html",
+    "main.0823dbf1.css.map": "/Luizfelm/CoulombDampedVibration/static/css/main.0823dbf1.css.map",
+    "main.692f62ea.js.map": "/Luizfelm/CoulombDampedVibration/static/js/main.692f62ea.js.map",
+    "453.76b2a0cd.chunk.js.map": "/Luizfelm/CoulombDampedVibration/static/js/453.76b2a0cd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0823dbf1.css",
-    "static/js/main.7bc74a35.js"
+    "static/js/main.692f62ea.js"
   ]
 }
