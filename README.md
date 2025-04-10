@@ -20,12 +20,21 @@ CoulombDampedVibration is a web-based simulation tool for analyzing mechanical v
 - **Plotly.js**: Library for creating interactive charts.
 - **Runge-Kutta Method**: Numerical method for solving differential equations.
 
+## Demo
+
+![Demo](demo.gif)
+
+## Visit the Webpage
+
+You can try the live version of the application [here](https://your-deployment-url.com).
+
 ## Installation
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/CoulombDampedVibration.git
    cd CoulombDampedVibration
+   ```
 
 2. Install dependencies:
     ```bash
@@ -54,7 +63,6 @@ CoulombDampedVibration is a web-based simulation tool for analyzing mechanical v
     - **Velocity vs. Time**: Displays the velocity of the mass over time.
 
 3. Modify parameters and observe the updated results in real-time.
-
 
 ## Dependencies
 
